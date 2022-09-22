@@ -30,4 +30,4 @@ ILC, Nejc, MALEŽIČ, Jakob, REZAR, Matija, SLUGA, Davor. **[Arhitektura sistema
 ### Izdajatelj
 Univerza v Ljubljani, Fakulteta za računalništvo in informatiko, 2022
 
-Programska oprema je ponujena pod licenco [BSD-3](https://opensource.org/licenses/BSD-3-Clause).
+Programska oprema je ponujena pod licenco [BSD-3](https://raw.githubusercontent.com/RoboLiga/RoboLiga.github.io/main/LICENSE).
